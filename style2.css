@@ -376,26 +376,26 @@ a:hover {
 
 /*product2*/
 .section-products #product-9 .part-1::before {
-  background: url("img/produk/Punching\ Machine.png") no-repeat center;
+  background: url("img/produk/YL-33S.png") no-repeat center;
   background-size: 120%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
 
 .section-products #product-10 .part-1::before {
-  background: url("img/produk/Punching\ Machine.png") no-repeat center;
+  background: url("img/produk/YL-886.png") no-repeat center;
   background-size: 120%;
   background-color: #ffffff;
 }
 
 .section-products #product-11 .part-1::before {
-  background: url("img/produk/Punching\ Machine.png") no-repeat center;
+  background: url("img/produk/YL-171.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-12 .part-1::before {
-  background: url("img/produk/Punching\ Machine.png") no-repeat center;
+  background: url("img/produk/YL-136A.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
@@ -447,7 +447,31 @@ a:hover {
 }
 
 .section-products #product-20 .part-1::before {
-  background: url("img/produk/Punching\ Machine.png") no-repeat center;
+  background: url("img/produk/YL-31.png") no-repeat center;
+  background-size: 80%;
+  background-color: #ffffff;
+}
+
+.section-products #product-21 .part-1::before {
+  background: url("img/produk/YL-720.png") no-repeat center;
+  background-size: 80%;
+  background-color: #ffffff;
+}
+
+.section-products #product-22 .part-1::before {
+  background: url("img/produk/YL-216.png") no-repeat center;
+  background-size: 80%;
+  background-color: #ffffff;
+}
+
+.section-products #product-23 .part-1::before {
+  background: url("img/produk/YL-206S") no-repeat center;
+  background-size: 80%;
+  background-color: #ffffff;
+}
+
+.section-products #product-24 .part-1::before {
+  background: url("img/produk/YL-132.png") no-repeat center;
   background-size: 80%;
   background-color: #ffffff;
 }
