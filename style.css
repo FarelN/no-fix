@@ -339,7 +339,7 @@ a:hover {
 
 .section-products #product-3 .part-1::before {
   background: url("img/produk/YL-735.png") no-repeat center;
-  background-size: 105%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
@@ -351,40 +351,40 @@ a:hover {
 
 .section-products #product-5 .part-1::before {
   background: url("img/produk/YL-L420W.png") no-repeat center;
-  background-size: 120%;
+  background-size: 75%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
 
 .section-products #product-6 .part-1::before {
   background: url("img/produk/YL-228-228\ L.png") no-repeat center;
-  background-size: 78%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-7 .part-1::before {
   background: url("img/produk/YL-588.png") no-repeat center;
-  background-size: 78%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-8 .part-1::before {
   background: url("img/produk/YL-11.png") no-repeat center;
-  background-size: 84%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 /*product2*/
 .section-products #product-9 .part-1::before {
   background: url("img/produk/YL-33S.png") no-repeat center;
-  background-size: 120%;
+  background-size: 75%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
 
 .section-products #product-10 .part-1::before {
   background: url("img/produk/YL-886.png") no-repeat center;
-  background-size: 120%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
@@ -403,33 +403,33 @@ a:hover {
 /*product*/
 .section-products #product-13 .part-1::before {
   background: url("img/produk/YL-12.png") no-repeat center;
-  background-size: 95%;
+  background-size: 75%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
 
 .section-products #product-14 .part-1::before {
   background: url("img/produk/YL-14.png") no-repeat center;
-  background-size: 90%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-15 .part-1::before {
   background: url("img/produk/YL-14B.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-16 .part-1::before {
   background: url("img/produk/YL-K2C1.png") no-repeat center;
-  background-size: 90%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 /*product3*/
 .section-products #product-17 .part-1::before {
   background: url("img/produk/YL-K2C2.png") no-repeat center;
-  background-size: 110%;
+  background-size: 75%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
@@ -442,133 +442,259 @@ a:hover {
 
 .section-products #product-19 .part-1::before {
   background: url("img/produk/YL-31S.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-20 .part-1::before {
   background: url("img/produk/YL-31.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-21 .part-1::before {
   background: url("img/produk/YL-720.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-22 .part-1::before {
   background: url("img/produk/YL-216.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-23 .part-1::before {
   background: url("img/produk/YL-206S.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-24 .part-1::before {
   background: url("img/produk/YL-132.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-25 .part-1::before {
   background: url("img/produk/FEED\ Mechanism.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-26 .part-1::before {
   background: url("img/produk/FEED\ Mechanism2.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-27 .part-1::before {
   background: url("img/produk/FEED\ Mechanism3.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-28 .part-1::before {
   background: url("img/produk/FEED\ Mechanism4.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-29 .part-1::before {
   background: url("img/produk/FEED\ Mechanism5.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-30 .part-1::before {
   background: url("img/produk/FEED\ Mechanism6.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-31 .part-1::before {
   background: url("img/produk/FEED\ Mechanism7.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-32 .part-1::before {
   background: url("img/produk/FEED\ Mechanism8.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-33 .part-1::before {
   background: url("img/produk/FEED\ Mechanism9.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-34 .part-1::before {
   background: url("img/produk/FEED\ Mechanism10.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-35 .part-1::before {
   background: url("img/produk/FEED\ Mechanism11.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-36 .part-1::before {
   background: url("img/produk/FEED\ Mechanism12.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-37 .part-1::before {
   background: url("img/produk/FEED\ Mechanism13.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-38 .part-1::before {
   background: url("img/produk/YL-K5355.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-39 .part-1::before {
   background: url("img/produk/YL-13.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-40 .part-1::before {
   background: url("img/produk/YL-09.png") no-repeat center;
-  background-size: 80%;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-41 .part-1::before {
+  background: url("img/produk/YL-218L.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-42 .part-1::before {
+  background: url("img/produk/YL-668A.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-43 .part-1::before {
+  background: url("img/produk/YL-302.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-44 .part-1::before {
+  background: url("img/produk/YL-218E.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-45 .part-1::before {
+  background: url("img/produk/YL-3680.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-46 .part-1::before {
+  background: url("img/produk/YL-8060.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-47 .part-1::before {
+  background: url("img/produk/YL-003TSS.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-48 .part-1::before {
+  background: url("img/produk/YL-006CK.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-49 .part-1::before {
+  background: url("img/produk/YL-883.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-50 .part-1::before {
+  background: url("img/produk/YL-398T.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-51 .part-1::before {
+  background: url("img/produk/YL-332.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-52 .part-1::before {
+  background: url("img/produk/YL-180A.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-53 .part-1::before {
+  background: url("img/produk/YL-101A.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-54 .part-1::before {
+  background: url("img/produk/YL-888L.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-55 .part-1::before {
+  background: url("img/produk/YL-552.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-56 .part-1::before {
+  background: url("img/produk/YL-759C.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-57 .part-1::before {
+  background: url("img/produk/YL-761.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-58 .part-1::before {
+  background: url("img/produk/YL-767.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-59 .part-1::before {
+  background: url("img/produk/YL-752.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-60 .part-1::before {
+  background: url("img/produk/YL-621.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-61 .part-1::before {
+  background: url("img/produk/YL-629.png") no-repeat center;
+  background-size: 75%;
   background-color: #ffffff;
 }
 .section-products .single-product .part-1 .discount,
