@@ -395,305 +395,425 @@ a:hover {
 }
 
 .section-products #product-12 .part-1::before {
-  background: url("img/produk/YL-136A.png") no-repeat center;
+  background: url("img/produk/Shuffle\ Race\ Assembly5.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 /*product*/
 .section-products #product-13 .part-1::before {
-  background: url("img/produk/YL-12.png") no-repeat center;
+  background: url("img/produk/Knives.png") no-repeat center;
   background-size: 75%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
 
 .section-products #product-14 .part-1::before {
-  background: url("img/produk/YL-14.png") no-repeat center;
+  background: url("img/produk/Customized\ Precision\ Needle\ Bar\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-15 .part-1::before {
-  background: url("img/produk/YL-14B.png") no-repeat center;
+  background: url("img/produk/Slide\ Guide\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-16 .part-1::before {
-  background: url("img/produk/YL-K2C1.png") no-repeat center;
+  background: url("img/produk/Slide\ Guide\ Series2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 /*product3*/
 .section-products #product-17 .part-1::before {
-  background: url("img/produk/YL-K2C2.png") no-repeat center;
+  background: url("img/produk/Slide\ Guide\ Series3.png") no-repeat center;
   background-size: 75%;
   transition: all 0.3s;
   background-color: #ffffff;
 }
 
 .section-products #product-18 .part-1::before {
-  background: url("img/produk/YL-4033.png") no-repeat center;
+  background: url("img/produk/Solenoid\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-19 .part-1::before {
-  background: url("img/produk/YL-31S.png") no-repeat center;
+  background: url("img/produk/Solenoid\ Series2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-20 .part-1::before {
-  background: url("img/produk/YL-31.png") no-repeat center;
+  background: url("img/produk/Control\ Box\ Components\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-21 .part-1::before {
-  background: url("img/produk/YL-720.png") no-repeat center;
+  background: url("img/produk/Control\ Box\ Components\ Series2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-22 .part-1::before {
-  background: url("img/produk/YL-216.png") no-repeat center;
+  background: url("img/produk/Main\ Motor\ &\ Feed\ Stpping\ Motor\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-23 .part-1::before {
-  background: url("img/produk/YL-206S.png") no-repeat center;
+  background: url("img/produk/Pedal\ Foot\ Switch\ &\ Operation\ Panel\ Stand.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-24 .part-1::before {
-  background: url("img/produk/YL-132.png") no-repeat center;
+  background: url("img/produk/Computer\ Sewing\ Machine\ Parts.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-25 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism.png") no-repeat center;
+  background: url("img/produk/Computer\ Sewing\ Machine\ Parts2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-26 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism2.png") no-repeat center;
+  background: url("img/produk/Timing\ Belt\ For\ Industrial\ Sewing\ Machines.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-27 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism3.png") no-repeat center;
+  background: url("img/produk/Timing\ Belt\ For\ Industrial\ Sewing\ Machines2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-28 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism4.png") no-repeat center;
+  background: url("img/produk/Gear\ For\ Brother\ 430D\ &\ Juki\ 1900A.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-29 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism5.png") no-repeat center;
+  background: url("img/produk/Gear\ For\ Brother\ 342G\ &\ 311G.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-30 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism6.png") no-repeat center;
+  background: url("img/produk/Computer\ Sewing\ Machine\ Parts3.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-31 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism7.png") no-repeat center;
+  background: url("img/produk/Computer\ Sewing\ Machine\ Parts4.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-32 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism8.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ &\ Brother\ 342G\,\ 311G\,\ 326G.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-33 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism9.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ &\ Brother\ 342G\,\ 311G\,\ 326G2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-34 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism10.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ &\ Brother\ 342G\,\ 311G\,\ 326G3.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-35 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism11.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ &\ Brother\ 342G\,\ 311G\,\ 326G4.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-36 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism12.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ &\ Brother\ 342G\,\ 311G\,\ 326G5.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-37 .part-1::before {
-  background: url("img/produk/FEED\ Mechanism13.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ &\ Brother\ 342G\,\ 311G\,\ 326G6.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-38 .part-1::before {
-  background: url("img/produk/YL-K5355.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2010\,\ 2516.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-39 .part-1::before {
-  background: url("img/produk/YL-13.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2010\,\ 25162.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-40 .part-1::before {
-  background: url("img/produk/YL-09.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2010\,\ 25163.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-41 .part-1::before {
-  background: url("img/produk/YL-218L.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2010\,\ 25164.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-42 .part-1::before {
-  background: url("img/produk/YL-668A.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2010\,\ 25165.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-43 .part-1::before {
-  background: url("img/produk/YL-302.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2010\,\ 25166.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-44 .part-1::before {
-  background: url("img/produk/YL-218E.png") no-repeat center;
+  background: url("img/produk/For\ Mitsubishi\ 2516\,\ 3020G.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-45 .part-1::before {
-  background: url("img/produk/YL-3680.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-46 .part-1::before {
-  background: url("img/produk/YL-8060.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-47 .part-1::before {
-  background: url("img/produk/YL-003TSS.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D3.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-48 .part-1::before {
-  background: url("img/produk/YL-006CK.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D4.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-49 .part-1::before {
-  background: url("img/produk/YL-883.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D5.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-50 .part-1::before {
-  background: url("img/produk/YL-398T.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D6.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-51 .part-1::before {
-  background: url("img/produk/YL-332.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 1850\,\ 1900.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-52 .part-1::before {
-  background: url("img/produk/YL-180A.png") no-repeat center;
+  background: url("img/produk/For\ Brother\ 430C\,\ 430D.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-53 .part-1::before {
-  background: url("img/produk/YL-101A.png") no-repeat center;
+  background: url("img/produk/For\ Brother\ 430C\,\ 430D2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-54 .part-1::before {
-  background: url("img/produk/YL-888L.png") no-repeat center;
+  background: url("img/produk/For\ Juki\ 210D\,\ 210E\,\ 221EN.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-55 .part-1::before {
-  background: url("img/produk/YL-552.png") no-repeat center;
+  background: url("img/produk/For\ Supreme\ Brother\ 342G\,\ 311G.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-56 .part-1::before {
-  background: url("img/produk/YL-759C.png") no-repeat center;
+  background: url("img/produk/\(Accessories\ Series\)\ Belt\ Cover\,\ Motor\ Cover.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-57 .part-1::before {
-  background: url("img/produk/YL-761.png") no-repeat center;
+  background: url("img/produk/\(Accessories\ Series\)\ Belt\ Cover\,\ Motor\ Cover2.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-58 .part-1::before {
-  background: url("img/produk/YL-767.png") no-repeat center;
+  background: url("img/produk/Cover\ Plate\ Assy\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-59 .part-1::before {
-  background: url("img/produk/YL-752.png") no-repeat center;
+  background: url("img/produk/\(Accessories\ Series\)\ Belt\ Cover\,\ Motor\ Cover3.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-60 .part-1::before {
-  background: url("img/produk/YL-621.png") no-repeat center;
+  background: url("img/produk/Feed\ Frame\ &\ Feed\ Plate\ Series.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
 
 .section-products #product-61 .part-1::before {
-  background: url("img/produk/YL-629.png") no-repeat center;
+  background: url("img/produk/Feed\ Frame\ &\ Feed\ Plate\ Series2.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-62 .part-1::before {
+  background: url("img/produk/Feed\ Frame\ &\ Feed\ Plate\ Series3.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-63 .part-1::before {
+  background: url("img/produk/Feed\ Plate\ &\ Presser\ Foot\ For\ Brother\ 430D.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-64 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-65 .part-1::before {
+  background: url("img/produk/Presser\ foot\ For\ Durkopp\ Adler.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-66 .part-1::before {
+  background: url("img/produk/Presser\ foot\ For\ Durkopp\ Adler2.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-67 .part-1::before {
+  background: url("img/produk/Presser\ foot\ For\ Durkopp\ Adler3.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-68 .part-1::before {
+  background: url("img/produk/Presser\ foot\ For\ Durkopp\ Adler4.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-69 .part-1::before {
+  background: url("img/produk/Presser\ foot\ For\ Durkopp\ Adler5.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-70 .part-1::before {
+  background: url("img/produk/Gauge\ Set\ For\ Industrial\ Sewing\ Machines.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-71 .part-1::before {
+  background: url("img/produk/Gauge\ Set\ For\ Industrial\ Sewing\ Machines2.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-72 .part-1::before {
+  background: url("img/produk/Needle\ Plate\ &\ Feed\ Dong\ For\ Durkopp\ Adler.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-73 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler2.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-74 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler3.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-75 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler4.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-76 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler5.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-77 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler6.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-78 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler7.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-79 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler8.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-80 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler9.png") no-repeat center;
+  background-size: 75%;
+  background-color: #ffffff;
+}
+
+.section-products #product-81 .part-1::before {
+  background: url("img/produk/For\ Durkopp\ Adler10.png") no-repeat center;
   background-size: 75%;
   background-color: #ffffff;
 }
