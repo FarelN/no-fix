@@ -771,7 +771,7 @@ a:hover {
 }
 
 .section-products .single-product .part-2 .product-old-price::after {
-  position: absolute;
+  position: "";
   content: "";
   top: 50%;
   left: 0;
